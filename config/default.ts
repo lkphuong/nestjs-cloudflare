@@ -1,0 +1,6 @@
+export default {
+  R2_ACCOUNT_ID: '39cd245e33263ea870c60320c1d3574b',
+  R2_ACCESS_KEY_ID: '77b7aa4f61898bac0bf1cda8165f3203',
+  R2_SECRET_ACCESS_KEY:
+    '0ba22c4a8468cc5ad9a9c15e5fc692be9daebb94a7beeb5934c2d62a04c0c074',
+};
